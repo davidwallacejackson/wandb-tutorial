@@ -18,7 +18,7 @@ import wandb
 from wandb.keras import WandbCallback
 
 #Initialize wandb
-wandb.init(project="sample-project")
+wandb.init(project="some-project-2")
 config = wandb.config
 
 #Track hyperparameters

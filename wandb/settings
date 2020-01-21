@@ -1,5 +1,5 @@
 [default]
 entity = davidwallacejackson
-project = sample-project
-base_url = http://api.qa.wandb.ai
+project = some-project-2
+base_url = http://api.wandb.test
 
